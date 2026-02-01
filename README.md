@@ -1,7 +1,7 @@
 # Email-Cleanup-Inbox-Zero
 Cleared a cluttered inbox to zero and set up categories for all incoming mail.
 
-# Project Summary: Project Zero – Total Inbox Liquidation
+# Project Summary:
 
 ### The Challenge
 The client was facing a critical digital bottleneck with an overloaded inbox of over 10,000 messages. This excessive volume made it impossible to identify new priorities, causing significant daily stress and a total loss of communication control.
